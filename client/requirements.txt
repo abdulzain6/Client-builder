@@ -1,0 +1,15 @@
+psutil
+requests
+pyautogui
+pyperclip
+Pillow
+pynput
+swinlnk
+aiofiles
+websockets
+httpx
+pydantic
+scapy
+mss
+aiofiles
+python-dotenv
